@@ -1,4 +1,7 @@
 # C64 Keyboard Tester
+
+<img src="https://github.com/Tishima/myDRAMTester/blob/main/myDRAM%20Tester/pictures/myDRAMTester_complete.jpg" width="300" alt="C64 myPLATester shield">
+
 This small circuit is for testing C64 keyboards, it measure with a AVR uC ATTINY85 the resistance of a keypress.
 under a treashold of 800Ohm - a red led goes on
 a green led show a startet uC
