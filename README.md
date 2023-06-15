@@ -13,7 +13,9 @@ so its possible to check if a key on the keyboard makes some trouble, the tresho
 the ATTINY85 works with internal clock at 1Mhz
 
 
-This repository contains all Autodesk Eagle files, gerber file, BOM, schematics, a small Arduino source code, Hex File for ATTINY85, Projekt File for XGeco T48-3 Eprom Programmer for Firmware, 
+This repository contains all Autodesk Eagle files, gerber file, BOM, schematics, a small Arduino source code, Hex File for ATTINY85, Projekt File for XGeco T48-3 Eprom Programmer for Firmware
+
 STL and CAD Files for a minimal enclosure, 
+
 Depending on where the parts and pcbs are purchased, the price for the complete circuit is around 5€ (2023), without enclosure and power supply
 
