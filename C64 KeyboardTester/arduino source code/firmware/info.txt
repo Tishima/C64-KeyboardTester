@@ -1,0 +1,4 @@
+firmaware for C64 KeyboardTester ATTINY85@1Mhz internal clock
+
+Hex File
+and Xgpro V 12.55 - Projekt File (chinese eprommer)

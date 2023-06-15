@@ -1,0 +1,5 @@
+Box Filament PETG Prusa orange
+
+*.f3d Autodesk Fusion 360 File
+
+4 piece screws PT 3x6mm
