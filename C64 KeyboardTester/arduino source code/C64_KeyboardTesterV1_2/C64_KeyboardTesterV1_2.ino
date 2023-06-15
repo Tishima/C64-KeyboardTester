@@ -1,4 +1,5 @@
 // C64 Keyboard Tester V1.2 by Bjoern Buettner
+// EMail: tishima@smalltown.de
 // Arduino Sketch
 // MCU = ATTiny85 @ 1MHz
 // this small program measure the resistance of the C64 keyboard
